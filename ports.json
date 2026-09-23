@@ -1,5 +1,16 @@
 {
-  "cosmo.zip": { "title": "Cosmo Nearby", "category": "Ação",
-                 "url": "https://seusite.x10.mx/cosmo.zip" },
-  "blocks.zip": { "title": "Blocks Deluxe", "category": "Puzzle", "url": "..." }
+  "alien-shooter.zip": {
+    "title": "Alien Shooter",
+    "category": "Tiro",
+    "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/alien-shooter.zip",
+    "cover": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/capas/alien-shooter.png",
+    "desc": "Port do clássico top-down shooter da Alien Shooter. Mate hordas de alienígenas.",
+    "genres": ["tiro", "top-down"],
+    "porter": "Diegocostasp",
+    "size": 0
+  },
+  "blades-of-fury.zip": { "title": "Blades of Fury", "category": "Luta", "url": "...", "cover": "...", "desc": "Jogo de luta 3D com samurais.", "porter": "Diegocostasp" },
+  "dungeon-hunter.zip":  { "title": "Dungeon Hunter", "category": "RPG", "url": "...", "cover": "...", "desc": "Action RPG estilo Diablo.", "porter": "Diegocostasp" },
+  "forager.zip":         { "title": "Forager", "category": "Simulação", "url": "...", "cover": "...", "desc": "Coleta, craft e exploração 2D.", "porter": "Diegocostasp" },
+  "the-bards-tale.zip":  { "title": "The Bard's Tale", "category": "RPG", "url": "...", "cover": "...", "desc": "RPG de ação com humor.", "porter": "Diegocostasp" }
 }
