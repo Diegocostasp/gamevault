@@ -1,0 +1,6 @@
+{ "roms": {
+    "gba/sonic": { "title": "Sonic Advance", "system": "Game Boy Advance",
+                   "category": "Nintendo", "url": "..." },
+    "psp/gta":   { "title": "GTA LCS", "system": "PSP",
+                   "category": "Sony", "url": "..." }
+} }
