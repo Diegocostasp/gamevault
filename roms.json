@@ -1,6 +1,17 @@
-{ "roms": {
-    "gba/sonic": { "title": "Sonic Advance", "system": "Game Boy Advance",
-                   "category": "Nintendo", "url": "..." },
-    "psp/gta":   { "title": "GTA LCS", "system": "PSP",
-                   "category": "Sony", "url": "..." }
-} }
+{
+  "roms": {
+    "gba/pokemon-emerald": {
+      "title": "Pokemon Emerald",
+      "system": "Game Boy Advance",
+      "category": "Nintendo",
+      "url": "https://seuservidor.com/roms/Pokemon Emerald (BR).gba",
+      "filename": "Pokemon Emerald (BR).gba",
+      "cover": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/capas/pokemon-emerald.png",
+      "desc": "Terceira geração Pokémon para GBA, versão Esmeralda traduzida."
+    },
+    "snes/super-mario-world":  { "title": "Super Mario World", "system": "SNES", "category": "Nintendo", "url": "...", "cover": "..." },
+    "psp/god-of-war-chains":   { "title": "God of War - Chains of Olympus", "system": "PSP", "category": "Sony", "url": "...", "cover": "..." },
+    "ps1/final-fantasy-ix":    { "title": "Final Fantasy IX", "system": "Sony Playstation", "category": "Sony", "url": "...", "cover": "..." },
+    "genesis/sonic-3":         { "title": "Sonic The Hedgehog 3", "system": "Sega Genesis/Mega Drive", "category": "Sega", "url": "...", "cover": "..." }
+  }
+}
