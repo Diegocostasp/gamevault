@@ -4,7 +4,12 @@
     "category": "Tiro",
     "url": "https://archive.org/download/AS_202609/alienshooter.zip",
     "cover": "https://play-lh.googleusercontent.com/NazI2IL5rTPzeYJ-ubrRs_YBI-inxjBDsxXen1FuUAgEZnKjYUtiB6m19WuKXOnM3dsWIpsMfG56kOqMP_ivIlU",
-    "desc": "Port do clássico top-down shooter Alien Shooter. Enfrente e extermine hordas implacáveis de alienígenas em cenários subterrâneos.",
+    "desc": "Alien Shooter 1 foi testado apenas no R36S original (testes e otimizações em consoles clones pendentes por falta do aparelho).
+
+Dica: Nas configurações de controle, selecione a última opção para obter a melhor jogabilidade.
+
+Menu: use o D-pad ou analógico para navegar e o botão A para confirmar.
+No jogo: analógico esquerdo anda, analógico direito mira e atira, R1 e R2 alternam armas, Start pausa e Select ativa o modo mouse.",
     "genres": ["tiro", "top-down", "ação"],
     "porter": "Brteccel",
     "size": "44 MB"
@@ -13,20 +18,20 @@
     "title": "Blades of Fury",
     "category": "Luta",
     "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/blades-of-fury.zip",
-    "cover": "https://play-lh.googleusercontent.com/T0bV31vUfF_G2Q1xZpQyXQ9w3J8kLmNoPQRstUVwxyZ123456789=w526-h296",
-    "desc": "Jogo de combate e luta com temática samurai e combates com espadas e habilidades especiais em arenas 3D.",
+    "cover": "https://static.wikia.nocookie.net/gameloftiphone/images/f/f3/1.jpg",
+    "desc": "Blades of Fury é um jogo de luta publicado pela Gameloft . Trata-se de um remake de Medieval Combat: Age of Glory (2006)para celulares com teclado numérico, e foi lançado em 2010 para iOS em 3D.",
     "genres": ["luta", "3D", "samurai"],
-    "porter": "Diegocostasp",
-    "size": "80 MB"
+    "porter": "Brteccel",
+    "size": "140 MB"
   },
-  "dungeon-hunter.zip": {
-    "title": "Dungeon Hunter",
+  "dungeonquest.zip": {
+    "title": "Dungeon Quest",
     "category": "RPG",
     "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/dungeon-hunter.zip",
-    "cover": "https://play-lh.googleusercontent.com/8xJ_gL6U-V2_qW0zZ5yN3sA1B2C3D4E5F6G7H8I9J0=w526-h296",
-    "desc": "Action RPG sombrio estilo Diablo. Explore masmorras escuras, colete armaduras lendárias e derrote chefes gigantescos.",
+    "cover": "https://play-lh.googleusercontent.com/9DG4nb3i1iO4QLlkLAPIOD9nuMyRJLxLstxZxyEAIQegXyPq3cjDn4bCxGZdBqyiBO-jjERyYt1VWBUizGcDqA",
+    "desc": "Jogo funcionando perfeitamente no R36S original via DarkOsRE. Possui suporte a gamepad com tutorial de comandos integrado. pode ser que ele pede internet apenas na primeira execução.",
     "genres": ["RPG", "hack and slash", "ação"],
-    "porter": "Diegocostasp",
-    "size": "120 MB"
+    "porter": "Brteccel",
+    "size": "39 MB"
   }
 }
