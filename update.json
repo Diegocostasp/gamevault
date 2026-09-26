@@ -1,0 +1,7 @@
+{
+  "ativo": false,
+  "versao": 2.2,
+  "obrigatorio": true,
+  "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/GameVault.zip",
+  "novidades": "Adicionado novo sistema de logs com QR code e suporte a novas ROMs."
+}
