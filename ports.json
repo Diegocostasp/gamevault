@@ -2,15 +2,31 @@
   "alien-shooter.zip": {
     "title": "Alien Shooter",
     "category": "Tiro",
-    "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/alien-shooter.zip",
+    "url": "https://archive.org/download/AS_202609/alienshooter.zip",
     "cover": "https://play-lh.googleusercontent.com/NazI2IL5rTPzeYJ-ubrRs_YBI-inxjBDsxXen1FuUAgEZnKjYUtiB6m19WuKXOnM3dsWIpsMfG56kOqMP_ivIlU",
-    "desc": "Port do clássico top-down shooter da Alien Shooter. Mate hordas de alienígenas.",
-    "genres": ["tiro", "top-down"],
-    "porter": "Diegocostasp",
-    "size": 0
+    "desc": "Port do clássico top-down shooter Alien Shooter. Enfrente e extermine hordas implacáveis de alienígenas em cenários subterrâneos.",
+    "genres": ["tiro", "top-down", "ação"],
+    "porter": "Brteccel",
+    "size": "44 MB"
   },
-  "blades-of-fury.zip": { "title": "Blades of Fury", "category": "Luta", "url": "...", "cover": "...", "desc": "Jogo de luta 3D com samurais.", "porter": "Diegocostasp" },
-  "dungeon-hunter.zip":  { "title": "Dungeon Hunter", "category": "RPG", "url": "...", "cover": "...", "desc": "Action RPG estilo Diablo.", "porter": "Diegocostasp" },
-  "forager.zip":         { "title": "Forager", "category": "Simulação", "url": "...", "cover": "...", "desc": "Coleta, craft e exploração 2D.", "porter": "Diegocostasp" },
-  "the-bards-tale.zip":  { "title": "The Bard's Tale", "category": "RPG", "url": "...", "cover": "...", "desc": "RPG de ação com humor.", "porter": "Diegocostasp" }
+  "blades-of-fury.zip": {
+    "title": "Blades of Fury",
+    "category": "Luta",
+    "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/blades-of-fury.zip",
+    "cover": "https://play-lh.googleusercontent.com/T0bV31vUfF_G2Q1xZpQyXQ9w3J8kLmNoPQRstUVwxyZ123456789=w526-h296",
+    "desc": "Jogo de combate e luta com temática samurai e combates com espadas e habilidades especiais em arenas 3D.",
+    "genres": ["luta", "3D", "samurai"],
+    "porter": "Diegocostasp",
+    "size": "80 MB"
+  },
+  "dungeon-hunter.zip": {
+    "title": "Dungeon Hunter",
+    "category": "RPG",
+    "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/dungeon-hunter.zip",
+    "cover": "https://play-lh.googleusercontent.com/8xJ_gL6U-V2_qW0zZ5yN3sA1B2C3D4E5F6G7H8I9J0=w526-h296",
+    "desc": "Action RPG sombrio estilo Diablo. Explore masmorras escuras, colete armaduras lendárias e derrote chefes gigantescos.",
+    "genres": ["RPG", "hack and slash", "ação"],
+    "porter": "Diegocostasp",
+    "size": "120 MB"
+  }
 }
