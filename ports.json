@@ -4,7 +4,7 @@
     "category": "Tiro",
     "url": "https://archive.org/download/AS_202609/alienshooter.zip",
     "cover": "https://play-lh.googleusercontent.com/NazI2IL5rTPzeYJ-ubrRs_YBI-inxjBDsxXen1FuUAgEZnKjYUtiB6m19WuKXOnM3dsWIpsMfG56kOqMP_ivIlU",
-    "desc": "Alien Shooter 1 foi testado apenas no R36S original (testes e otimizações em consoles clones pendentes por falta do aparelho). Dica: Nas configurações de controle, selecione a última opção para obter a melhor jogabilidade. Menu: use o D-pad ou analógico para navegar e o botão A para confirmar. No jogo: analógico esquerdo anda, analógico direito mira e atira, R1 e R2 alternam armas, Start pausa e Select ativa o modo mouse.",
+    "desc": "Compatibilidade: Testado apenas no R36S original (suporte a clones pendente). Ajuste recomendado: Selecione o último perfil de controle nas opções.Menu: D-pad/analógico navega | Botão A seleciona.Em jogo: Analógico esquerdo move | Analógico direito atira | R1 e R2 trocam armas | Start pausa | Select ativa modo mouse.",
     "genres": ["tiro", "top-down", "ação"],
     "porter": "Brteccel",
     "size": "44 MB"
@@ -12,9 +12,9 @@
   "blades-of-fury.zip": {
     "title": "Blades of Fury",
     "category": "Luta",
-    "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/blades-of-fury.zip",
-    "cover": "https://static.wikia.nocookie.net/gameloftiphone/images/f/f3/1.jpg",
-    "desc": "Blades of Fury é um jogo de luta publicado pela Gameloft . Trata-se de um remake de Medieval Combat: Age of Glory (2006)para celulares com teclado numérico, e foi lançado em 2010 para iOS em 3D.",
+    "url": "https://archive.org/download/ports_20260926/bladesoffury.zip",
+    "cover": "https://media.pocketgamer.com/artwork/na-xfrs/blades_of_fury_art.jpg",
+    "desc": "Compatibilidade: Testado apenas no R36S original (suporte a clones pendente). Ajuste recomendado: Ative o D-pad nas opções do jogo para poder usar tanto o direcional quanto o analógico.Menu: D-pad/analógico navega | Botão A seleciona.Em jogo: Analógico move | Botões A e B atacam | X defende | Y ataque especial | Start pausa | Select ativa modo mouse.",
     "genres": ["luta", "3D", "samurai"],
     "porter": "Brteccel",
     "size": "140 MB"
@@ -22,9 +22,19 @@
   "dungeonquest.zip": {
     "title": "Dungeon Quest",
     "category": "RPG",
-    "url": "https://raw.githubusercontent.com/Diegocostasp/gamevault/main/ports/dungeon-hunter.zip",
+    "url": "https://archive.org/download/ports_20260926/dungeonquest.zip",
     "cover": "https://play-lh.googleusercontent.com/9DG4nb3i1iO4QLlkLAPIOD9nuMyRJLxLstxZxyEAIQegXyPq3cjDn4bCxGZdBqyiBO-jjERyYt1VWBUizGcDqA",
     "desc": "Jogo funcionando perfeitamente no R36S original via DarkOsRE. Possui suporte a gamepad com tutorial de comandos integrado. pode ser que ele pede internet apenas na primeira execução.",
+    "genres": ["RPG", "hack and slash", "ação"],
+    "porter": "Brteccel",
+    "size": "39 MB"
+  },
+  "barony.zip": {
+    "title": "Barony",
+    "category": "RPG",
+    "url": "https://archive.org/download/ports_20260926/barony.zip",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371970/0f8975e4b2af32eb0d68c309f1eff56d470e73dc/header.jpg",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, ele tem opção de gamepad então quando entrar no jogo tem tutorial de como jogar e dos controles. ele demora um pouco para entrar no jogo, e quando entrar no jogo vai em configurações e muda as configurações de vídeo para ficar melhor, não sei o desempenho dele em consoles clones ou em consoles com menos de 1g de ram.",
     "genres": ["RPG", "hack and slash", "ação"],
     "porter": "Brteccel",
     "size": "39 MB"
