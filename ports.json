@@ -37,7 +37,7 @@
     "desc": "Jogo rodando bem no r36s original usando DarkOsRE, ele tem opção de gamepad então quando entrar no jogo tem tutorial de como jogar e dos controles. ele demora um pouco para entrar no jogo, e quando entrar no jogo vai em configurações e muda as configurações de vídeo para ficar melhor, não sei o desempenho dele em consoles clones ou em consoles com menos de 1g de ram.",
     "genres": ["RPG", "hack and slash", "ação"],
     "porter": "Brteccel",
-    "size": "39 MB"
+    "size": "441 MB"
   },
   "skillwood.zip": {
     "title": "Skillwood",
@@ -45,8 +45,18 @@
     "url": "https://archive.org/download/sw_20260928/skillwood.zip",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2776630/header.jpg",
     "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil, dpad, r1 corre, B seria tecla de comando e A de ações e pegar coisas do chão, não sei o desempenho dele em consoles clones",
+    "genres": ["Survival", "life", "ação"],
+    "porter": "Brteccel",
+    "size": "50 MB"
+  },
+  "ultranightmare.zip": {
+    "title": "Ultra Nightmare",
+    "category": "Survival",
+    "url": "https://archive.org/download/ultranightmare/ultranightmare.zip",
+    "cover": "https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/347x500/%2B79m9J.png",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil, Controls:back = escstart = entera = 1b = e (action)x = 2y = 3l1 = mouse_leftl2 = 4r1 = mouse_left (shoot)r2 = 5up = up down = down left = left right = right",
     "genres": ["RPG", "hack and slash", "ação"],
     "porter": "Brteccel",
-    "size": "39 MB"
+    "size": "27 MB"
   }
 }
