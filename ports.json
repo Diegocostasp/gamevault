@@ -38,5 +38,15 @@
     "genres": ["RPG", "hack and slash", "ação"],
     "porter": "Brteccel",
     "size": "39 MB"
+  },
+  "skillwood.zip": {
+    "title": "Skillwood",
+    "category": "Survival",
+    "url": "https://archive.org/download/sw_20260928/skillwood.zip",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2776630/header.jpg",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil, dpad, r1 corre, B seria tecla de comando e A de ações e pegar coisas do chão, não sei o desempenho dele em consoles clones",
+    "genres": ["RPG", "hack and slash", "ação"],
+    "porter": "Brteccel",
+    "size": "39 MB"
   }
 }
