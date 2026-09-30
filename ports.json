@@ -58,5 +58,15 @@
     "genres": ["RPG", "hack and slash", "ação"],
     "porter": "Brteccel",
     "size": "27 MB"
+  },
+  "almoradarkosen.zip": {
+    "title": "Almora Darkosen RPG",
+    "category": "Rpg",
+    "url": "https://archive.org/download/aldar_202609/almoradarkosen.zip",
+    "cover": "https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/347x500/%2B79m9J.png",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil, os controles ele aceita gamepad normalmente, você pode troca de idioma e configurações do controle dentro do menu opção do jogo, ai pode usar o padrão Nintendo para usar os controle certo tipo X é o X, o A é o A e por ai vai. quando for jogar, cria rum novo jogo, colocar ver ads ai ele vai entrar no jogo, não vai entrar nenhum anuncio.",
+    "genres": ["RPG", "survival", "aventura"],
+    "porter": "Brteccel",
+    "size": "96 MB"
   }
 }
