@@ -68,5 +68,15 @@
     "genres": ["RPG", "survival", "aventura"],
     "porter": "Brteccel",
     "size": "96 MB"
+  },
+  "9thdawn3.zip": {
+    "title": "9th Dawn Iii rpg",
+    "category": "Rpg",
+    "url": "https://archive.org/download/9t3_20261002/9thdawn3.zip",
+    "cover": "https://play-lh.googleusercontent.com/4rrQEUrfkQShBLaczwmDQPNmwXG9eUDuVPqduBgyMMorW_9nFXqpr-mOE47H1CDF80RFDUrseyDXLWpVvft6xQ",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil, os controles ele aceita gamepad normalmente, você pode troca de idioma e configurações do controle dentro do menu opção do jogo, e pode mudar configuração de video tambem",
+    "genres": ["RPG", "survival", "aventura"],
+    "porter": "Brteccel",
+    "size": "145 MB"
   }
 }
