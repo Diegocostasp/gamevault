@@ -78,5 +78,15 @@
     "genres": ["RPG", "survival", "aventura"],
     "porter": "Brteccel",
     "size": "145 MB"
+  },
+  "nfsu2r36.zip": {
+    "title": "Need for Speed: Underground 2",
+    "category": "Corrida",
+    "url": "https://archive.org/download/nfsu2r36/nfsu2r36.zip",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/10/Nfsu2-win-cover.jpg",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil, os controles ele aceita gamepad normalmente, ja com legendas e dublagem em pt br",
+    "genres": ["Corrida", "carros", "aventura"],
+    "porter": "nextos",
+    "size": "1.9 G"
   }
 }
