@@ -88,5 +88,15 @@
     "genres": ["Corrida", "carros", "aventura"],
     "porter": "nextos",
     "size": "1.9 G"
+  },
+  "land_of_the_dead_r36s.zip": {
+    "title": "Land of the Dead: Road to Fiddler's Green",
+    "category": "Survival",
+    "url": "https://archive.org/download/land_of_the_dead_r36s/land_of_the_dead_r36s.zip",
+    "cover": "https://assets-prd.ignimgs.com/2022/05/06/landofthedead-1651879706659.jpg",
+    "desc": "Jogo rodando bem no r36s original usando DarkOsRE, controle fácil e pode configurar no jogo, pode adicionar mods e legendas tem como melhorar o desepenho pelo menu de ocnfigurações de video",
+    "genres": ["Survival", "Terror", "aventura"],
+    "porter": "Brteccel",
+    "size": "293.3 MB"
   }
 }
